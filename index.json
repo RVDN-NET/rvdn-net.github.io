@@ -1,0 +1,22 @@
+{
+  "code/index.html": {
+    "href": "code/index.html",
+    "title": "Coming soon | RISC-V Developer Network",
+    "keywords": "Coming soon"
+  },
+  "documentation/index.html": {
+    "href": "documentation/index.html",
+    "title": "Coming soon | RISC-V Developer Network",
+    "keywords": "Coming soon"
+  },
+  "downloads.html": {
+    "href": "downloads.html",
+    "title": "RISC-V cores and IP | RISC-V Developer Network",
+    "keywords": "RISC-V cores and IP DE2-115 Rocket core bitstream DE2-115 NeoRV32 core bitstream RISC-V Toolchain RISC-V Toolchain Open source artifacts RVDN Poky source code Operating system and runtime Linux boot image on DE2-115"
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "RISC-V Developer Network hub | RISC-V Developer Network",
+    "keywords": "RISC-V Developer Network hub Downloads Documentation Code"
+  }
+}
